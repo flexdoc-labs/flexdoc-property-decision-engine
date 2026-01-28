@@ -1,0 +1,10 @@
+[project]
+name = "flexdoc-property-decision-engine"
+version = "0.1.0"
+description = "Core decision engine used by Flexdoc to assess property investment scenarios"
+authors = ["Flexdoc Labs <hello@flexdoc.com>"]
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.dependencies]
+pydantic = ">=1.10,<2"
